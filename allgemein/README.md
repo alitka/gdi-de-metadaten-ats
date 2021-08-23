@@ -1,5 +1,7 @@
 # Grundsätzliche Konventionen für alle Metadaten
 
+| Kapitel | Name | ATS |
+| --- | --- | --- |
 | 0.1 | Schemavalidierung | gdide_0.2_schemavalidierung |
 | 2.1	| Multiplizität des identificationInfo-Elements | gdide_2.1_identificationInfo |
 | 2.2	| Eindeutiger Metadatensatzidentifikator | gdide_2.2_metadatensatzidentifikator |
