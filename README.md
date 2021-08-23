@@ -8,7 +8,7 @@ Die Konformitätsklassen, die in dem oben erwähnten Dokument beschrieben sind, 
 
 Testklasse: Konventionen der GDI-DE für GDI-DE-konforme Metadaten mit ISO-Schemavalidierung nach ISO:2007 (Beta-Version)
 * Metadaten: ISO-Schemavalidierung (M - verpflichtend)
-* Metadaten: GDI-DE (M - verpflichtend)
+* [Metadaten: GDI-DE (M - verpflichtend)](https://github.com/alitka/gdi-de-metadaten-ats/tree/2.0.3/allgemein)
 * Metadaten: GDI-DE (C - konditional)
 * Metadaten: GDI-DE (O - optional)
 * Metadaten: OpenData (C - konditional)
