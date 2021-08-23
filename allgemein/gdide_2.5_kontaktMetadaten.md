@@ -68,4 +68,4 @@ Beispiel
 </gmd:contact>
 ```
 
-**Konformitätsklasse:**
+**Konformitätsklasse:** GDI-DE (M - verpflichtend)
