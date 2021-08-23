@@ -4,7 +4,7 @@ Die Abstract Test Suites für die aktuellen GDI-DE "Konventionen zu Metadaten" s
 
 | Abstract Test Suite |
 | --- |
-| Konventionen zu Metadaten, Version 2.0.3 |
+| [Konventionen zu Metadaten, Version 2.0.3](https://github.com/alitka/gdi-de-metadaten-ats/tree/2.0.3) |
 
 #### weiterführende bzw. externe Dokumente (Referenzen)
 
