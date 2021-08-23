@@ -1,16 +1,18 @@
-# gdi-de-metadaten-ats
+# Grundsätzliche Konventionen für alle Metadaten
 
-Die Abstract Test Suites für die aktuellen GDI-DE "Konventionen zu Metadaten" sind in diesem Repository zu finden.
+Die in diesem Abschnitt definierten Abstract Test Suites (ATS) basieren auf den Konventionen zu Metadaten in der Version 2.0 3..
 
-| Abstract Test Suite |
-| --- |
-| Konventionen zu Metadaten, Version 2.0.3 |
+# Abstract Test Suites & Konformitätsklassen
 
-#### weiterführende bzw. externe Dokumente (Referenzen)
+Die Konformitätsklassen, die in dem oben erwähnten Dokument beschrieben sind, sind Zusammenstellungen von Anforderungen, die erfüllt werden müssen, um gegenüber der GDI-DE sowie INSPIRE konform zu sein. Für jede Konformitätsklasse ist ein ATS erstellt, um den Prozess der Metadatenvalidierung so klar wie möglich zu gestalten.
 
-| Abkürzung | Dokumentname |
-| --- | --- |
-| AK MD | [Konventionen zu Metadaten, Version 2.0.3](https://wiki.gdi-de.org/download/attachments/3344909/Architektur_GDI_DE_Konventionen_Metadaten_v2_0_3.pdf?version=1&modificationDate=1580904138339&api=v2) |
-| INS TG MD 2.0 | [Technical Guidance for the implementation of INSPIRE dataset and service metadata based on ISO/TS 19139:2007, version 2.0](https://inspire.ec.europa.eu/sites/default/files/documents/metadata/inspire-tg-metadata-iso19139-2.0.1.pdf) |
-| INS VO MD | [VERORDNUNG (EG) Nr. 1205/2008 DER KOMMISSIONvom 3. Dezember 2008zur Durchführung der Richtlinie 2007/2/EG des Europäischen Parlaments und des Rates hinsichtlichMetadaten](https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32008R1205&from=DE) |
-| ISO 19115 | [deutsche Übersetzung der ISO-Felder](https://wiki.gdi-de.org/download/attachments/3344909/Deutsche_Uebersetzung_der_ISO-Felder.pdf?version=1&modificationDate=1504013146609&api=v2) |
+Testklasse: Konventionen der GDI-DE für GDI-DE-konforme Metadaten mit ISO-Schemavalidierung nach ISO:2007 (Beta-Version)
+* Metadaten: ISO-Schemavalidierung (M - verpflichtend)
+* Metadaten: GDI-DE (M - verpflichtend)
+* Metadaten: GDI-DE (C - konditional)
+* Metadaten: GDI-DE (O - optional)
+* Metadaten: OpenData (C - konditional)
+Testklasse: Konventionen der GDI-DE für INSPIRE-konforme Metadaten mit ISO-Schemavalidierung nach ISO:2007 (Beta-Version)
+* Metadaten: GDI-DE & INSPIRE (M - verpflichtend)
+* Metadaten: GDI-DE & INSPIRE (C- konditional)
+* Metadaten: OpenData (C - konditional)
