@@ -10,7 +10,7 @@
 | 2.5	| Kontakt (Verantwortliche Stelle Metadaten) | [gdide_2.5_kontaktMetadaten](https://github.com/alitka/gdi-de-metadaten-ats/blob/2.0.3/allgemein/gdide_2.5_kontaktMetadaten.md) |
 | 2.6	| Kontakt (Verantwortliche Stelle für die Ressource) | [gdide_2.6_kontaktRessource](https://github.com/alitka/gdi-de-metadaten-ats/blob/2.0.3/allgemein/gdide_2.6_kontaktRessource.md) |
 | 2.7.1 | Schlüsselwort „inspireidentifiziert“ | gdide_2.7.1_schluesselwortInspireidentifiziert |
-| 2.8 | | gdide_2.8_beschraenkungOeffZugang |
+| 2.8 | Beschränkungen des öffentlichen Zugangs (accessConstraints) | gdide_2.8_beschraenkungOeffZugang |
 | 2.9.2 |	Nutzungs- und Zugriffsbedingungen in der GDI-DE (bei INSPIRE) (useConstraints) | gdide_2.9.2_bedingungenINSPIRE |
 | 3.1 |Eindeutiger Ressourcenidentifikator | gdide_3.1_ressourcenidentifikator |
 | 3.2.1 | Quellenangabe für Schlüsselwörter zu INSPIRE-Themen | gdide_3.2.1_quellenangabeINSPIRE |
