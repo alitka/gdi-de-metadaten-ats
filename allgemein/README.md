@@ -1,4 +1,5 @@
-# Grundsätzliche Konventionen für alle Metadaten
+# Metadaten: GDI-DE (M - verpflichtend)
+## generelle Verpflichtungen (gemäß Konventionendokument, Version 2.0) zur Erfüllung der Anforderungen seitens der GDI-DE
 
 | Kapitel | Name | Einzeltest |
 | --- | --- | --- |
@@ -9,3 +10,5 @@
 | 2.5	| Kontakt (Verantwortliche Stelle Metadaten) | [gdide_2.5_kontaktMetadaten](https://github.com/alitka/gdi-de-metadaten-ats/blob/2.0.3/allgemein/gdide_2.5_kontaktMetadaten.md) |
 | 2.6	| Kontakt (Verantwortliche Stelle für die Ressource) | [gdide_2.6_kontaktRessource](https://github.com/alitka/gdi-de-metadaten-ats/blob/2.0.3/allgemein/gdide_2.6_kontaktRessource.md) |
 | 2.9.1 |	Nutzungs- und Zugriffsbedingungen in der GDI-DE (ohne INSPIRE) (useConstraints) | [gdide_2.9.1_bedingungenGDIde](https://github.com/alitka/gdi-de-metadaten-ats/blob/2.0.3/allgemein/gdide_2.9.1_bedingungenGDIde.md) |
+| 3.1 |Eindeutiger Ressourcenidentifikator | gdide_3.1_ressourcenidentifikator |
+| 4.3.2 | Ressourcenverweis unter connectPoint | gdide_4.3.2_ressourcenverweisConnectPoint |
