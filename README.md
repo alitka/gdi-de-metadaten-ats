@@ -1,5 +1,4 @@
 # gdi-de-metadaten-ats
-
 Die Abstract Test Suites für die aktuellen GDI-DE "Konventionen zu Metadaten" sind in diesem Repository zu finden.
 
 | Abstract Test Suite |
